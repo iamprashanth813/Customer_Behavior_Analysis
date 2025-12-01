@@ -124,13 +124,7 @@ A visually clean presentation summarizing:
 * Key visual insights
 * Business recommendations
 
----
 
-## 📊 **Dashboard Preview**
-
-*(Insert your dashboard screenshot here)*
-
----
 
 ## ✅ **Results & Key Insights**
 
